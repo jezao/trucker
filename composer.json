@@ -1,9 +1,9 @@
 {
-    "name": "indatus/trucker",
+    "name": "jezao/trucker",
     "description": "A simple active resource implementation written in PHP to consume any REST API",
     "keywords":["trucker", "activeresource", "active resource"],
     "type": "library",
-    "homepage": "http://indatus.com/",
+    "homepage": "http://coderia.com/",
     "license": "MIT",
     "authors": [
         {
@@ -11,16 +11,6 @@
             "homepage": "http://indatus.com/",
             "email": "bwebb@indatus.com",
             "role": "Developer"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/brianwebb01/filesystem"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/brianwebb01/hot-phpunit-runner"
         }
     ],
     "require": {
